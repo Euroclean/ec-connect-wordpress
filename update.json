@@ -1,0 +1,8 @@
+{
+  "version": "0.6.0",
+  "package": "https://github.com/Euroclean/ec-connect-wordpress/releases/download/v0.6.0/ec-connect-wordpress-0.6.0.zip",
+  "sha256": "99b546073a81113e562b589fde0312b02327627fafe936aac87a31a8e36957e7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "tested": "6.9"
+}
